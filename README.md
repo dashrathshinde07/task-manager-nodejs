@@ -8,6 +8,10 @@ This project implements a Task Management system with a backend API and a fronte
 - **Front-End Link**: [Task Manager Front-End](https://task-manager-nodejs-ec97.vercel.app/)
 - **Back-End Link**: [Task Manager Back-End](https://task-manager-nodejs-3fjm.onrender.com)
 
+## Test Credentials
+- **Email**: john.doe@example.com
+- **Password**: password123
+
 ## Backend Features
 
 ### API Endpoints
